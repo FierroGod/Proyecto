@@ -1,0 +1,428 @@
+[
+ 
+    {
+        "id": "primarios",
+        "titulo": "VARIPRIMER",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Pintura",
+            "id": "primarios"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "primarios",
+        "titulo": "7707S-Negro",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Pintura",
+            "id": "primarios"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "primarios",
+        "titulo": "7704S-Gris",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Pintura",
+            "id": "primarios"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "primarios",
+        "titulo": "7701S-Blanco",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Pintura",
+            "id": "primarios"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "primarios",
+        "titulo": "Primario de Relleno 930AV",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Pintura",
+            "id": "primarios"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "primarios",
+        "titulo": "Primario Universal Imlar",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Pintura",
+            "id": "primarios"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "primarios",
+        "titulo": "624SM-Gris Obscuro",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Pintura",
+            "id": "primarios"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "primarios",
+        "titulo": "623SM-Blanco",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Pintura",
+            "id": "primarios"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "primarios",
+        "titulo": "622SM-Gris Claro",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Pintura",
+            "id": "primarios"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "primarios",
+        "titulo": "629SM-Rojo",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Pintura",
+            "id": "primarios"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "primarios",
+        "titulo": "629SM-Rosa",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Pintura",
+            "id": "primarios"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "primarios",
+        "titulo": "Max 1k-Primer de Relleno",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Pintura",
+            "id": "primarios"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "primarios",
+        "titulo": "Max 2k-Primer de Relleno",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Pintura",
+            "id": "primarios"
+        },
+        "precio": 1000
+    },
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "id": "Transparente 1",
+        "titulo": "Transparente 01  ",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Transparentes",
+            "id": "transparentes"
+        },
+        "precio": 1000
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+    {
+        "id": "base1",
+        "titulo": "Base color",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "base color",
+            "id": "basecolor"
+        },
+        "precio": 1000
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "id": "rellenadores-01",
+        "titulo": "Rellenador",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Rellenadores",
+            "id": "rellenadores"
+        },
+        "precio": 1000
+    },
+
+
+
+
+
+
+
+
+
+    
+    {
+        "id": "Thiner0-1",
+        "titulo": "Thinner",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Thinner y R",
+            "id": "tiner"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Thiner0-2",
+        "titulo": "Thinner 2",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Thinner y R",
+            "id": "tiner"
+        },
+        "precio": 1000
+    },
+
+
+
+    {
+        "id": "Esmalte0-1",
+        "titulo": "Esmalte",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Esmalte 01",
+            "id": "esmaltes"
+            
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "Esmalte0-1",
+        "titulo": "TRANSPARENTE IMLAR IW500 KLARITY AV",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Esmalte 01",
+            "id": "transparentes"
+            
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "Esmalte0-1",
+        "titulo": "TRANSPARENTE CROMACRYL KRISTALITY",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Esmalte 01",
+            "id": "transparentes"
+            
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "Esmalte0-1",
+        "titulo": "TTRANSPARENTE IMLAR GLAMOUR",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Esmalte 01",
+            "id": "transparentes"
+            
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "Esmalte0-1",
+        "titulo": "TRANSPARENTE IMLAR ESPEJO IW300",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Esmalte 01",
+            "id": "transparentes"
+            
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "Esmalte0-1",
+        "titulo": "TRANSPARENTE CROMAX GEN CG-410",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Esmalte 01",
+            "id": "transparentes"
+            
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "Esmalte0-1",
+        "titulo": "TRANSPARENTE CHROMA GLOSS G2-7610S",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Esmalte 01",
+            "id": "transparentes"
+            
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "Esmalte0-1",
+        "titulo": "TRANSPARENTE CHROMACLEAR MULTIUSOS MULTI-MIX G2-7500S",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Esmalte 01",
+            "id": "transparentes"
+            
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "Esmalte0-1",
+        "titulo": "TRANSPARENTE CHROMACLEAR POLIURETANO SECADO RÁPIDO CC611S ULTRA",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Esmalte 01",
+            "id": "transparentes"
+            
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "Esmalte0-1",
+        "titulo": "TRANSPARENTE CHROMACLEAR NON-STOP 7400S",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Esmalte 01",
+            "id": "transparentes"
+            
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "Esmalte0-1",
+        "titulo": "TRANSPARENTE CHROMAPREMIER PRO PRODUCTIVA 74500S",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Esmalte 01",
+            "id": "transparentes"
+            
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "Esmalte0-1",
+        "titulo": "CHROMAPREMIER® PRO TRANSPARENTE PRODUCTIVA EXPRESS 74700S",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Esmalte 01",
+            "id": "transparentes"
+            
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "Esmalte0-1",
+        "titulo": "TRANSPARENTE PERMAFAST SPIES HECKER 8003",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Esmalte 01",
+            "id": "transparentes"
+            
+        },
+        "precio": 1000
+    }
+]
