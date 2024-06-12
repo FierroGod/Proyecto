@@ -249,17 +249,7 @@
     
     {
         "id": "Thiner0-1",
-        "titulo": "Thinner",
-        "imagen": "./img/b.jpg",
-        "categoria": {
-            "nombre": "Thinner y R",
-            "id": "tiner"
-        },
-        "precio": 1000
-    },
-    {
-        "id": "Thiner0-2",
-        "titulo": "Thinner 2",
+        "titulo": "Thinner Estandar",
         "imagen": "./img/b.jpg",
         "categoria": {
             "nombre": "Thinner y R",
@@ -268,19 +258,47 @@
         "precio": 1000
     },
 
-
-
     {
-        "id": "Esmalte0-1",
-        "titulo": "Esmalte",
+        "id": "Thiner0-1",
+        "titulo": "Thinner Acrilico",
         "imagen": "./img/b.jpg",
         "categoria": {
-            "nombre": "Esmalte 01",
-            "id": "esmaltes"
-            
+            "nombre": "Thinner y R",
+            "id": "tiner"
         },
         "precio": 1000
     },
+
+    {
+        "id": "Thiner0-1",
+        "titulo": "Thinner para Primario Universal",
+        "imagen": "./img/b.jpg",
+        "categoria": {
+            "nombre": "Thinner y R",
+            "id": "tiner"
+        },
+        "precio": 1000
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     {
         "id": "Esmalte0-1",
